@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyrineB11
 - 👀 I’m interested in computer science , coding .
-- 🌱 I’m currently learning about machine learning ,AI, deep learning,jQuery,Angular,C#
+- 🌱 I’m currently learning about machine learning ,AI and  deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
