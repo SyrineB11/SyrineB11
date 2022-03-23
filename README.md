@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SyrineB11
-- 👀 I’m interested in computer science , coding .
-- 🌱 I’m currently learning about machine learning ,AI and  deep learning
+- 👋 Hi, I’m Syrine Bahri CS engineering student at ENSI and specialized in AI
+- 👀 I’m interested in AI,Machine Learning(supervised,unsupervised,recommender systems..),DL,NLP,multimodality...
+- 🌱 I’m currently learning more about machine learning , deep learning,AI,RL,NLP,SKLEARN,..
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me syrinebahri6@gmail.com
 
 <!---
 SyrineB11/SyrineB11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
