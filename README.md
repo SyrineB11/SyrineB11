@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syrine Bahri CS engineering student at ENSI and specialized in AI
 - 👀 I’m interested in AI,Machine Learning(supervised,unsupervised,CNN,Deep Learning..),NLP,RNN,LSTM,GRU,multimodality...
-- 🌱 I’m currently learning more about machine learning , deep learning,AI,RL,NLP,SKLEARN,..
+- 🌱 I’m currently learning more about machine learning , deep learning,AI,RL,NLP,..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me syrinebahri6@gmail.com
 
