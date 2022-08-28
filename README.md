@@ -5,4 +5,4 @@
 SyrineB11/SyrineB11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-+ https://www.linkedin.com/in/syrine-bahri-5259311ba/
+linkedin https://www.linkedin.com/in/syrine-bahri-5259311ba/
