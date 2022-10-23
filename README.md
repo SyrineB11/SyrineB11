@@ -1,6 +1,7 @@
-### Hi there👋
+### Hi there, I'm Syrine👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syrineb11&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syrineb11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - I’m Syrine Bahri, computer science engineering student at ENSI (National School For Computer Science) and specialized in AI
 - 📫 How to reach me syrine.bahri@ensi-uma.tn
