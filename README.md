@@ -8,19 +8,19 @@
 SyrineB11/SyrineB11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[[https://www.linkedin.com/feed/](https://www.linkedin.com/in/syrine-bahri-5259311ba/)]
 
-# Github Profile Trophy
+# My Github Profile Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 
-# Github Status
+# My Github Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syrineb11&show_icons=true&theme=radical)
 
-# Skills
+# My Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
