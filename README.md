@@ -7,5 +7,5 @@ You can click the Preview link to take a look at your changes.
 --->
 linkedin https://www.linkedin.com/in/syrine-bahri-5259311ba/
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh))
 
