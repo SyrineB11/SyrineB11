@@ -5,7 +5,7 @@
 SyrineB11/SyrineB11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" /> linkedin https://www.linkedin.com/in/syrine-bahri-5259311ba/
+<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[[YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/syrine-bahri-5259311ba/)]" /> linkedin https://www.linkedin.com/in/syrine-bahri-5259311ba/
 
 # Github-profile-trophy
 
