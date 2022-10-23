@@ -1,6 +1,6 @@
 ### Hi there, I'm Syrine !👋
 
-#### Computer science engineering student at ENSI (National School For Computer Science) and specialized in AI
+#### Computer science and AI specialized engineering student at ENSI (National School For Computer Science) 
 - 📫 How to reach me syrine.bahri@ensi-uma.tn
 - 📫 My Linkedin https://www.linkedin.com/in/syrine-bahri-5259311ba/
 <!---
