@@ -1,4 +1,4 @@
-###👋 Hi there I’m Syrine Bahri a computer science engineering student at ENSI(National School For Computer Science) and specialized in AI
+### Hi there I’m Syrine Bahri 👋 computer science engineering student at ENSI (National School For Computer Science) and specialized in AI
 - 📫 How to reach me syrine.bahri@ensi-uma.tn
 <!---
 SyrineB11/SyrineB11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
