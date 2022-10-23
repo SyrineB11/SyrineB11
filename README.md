@@ -6,4 +6,6 @@ SyrineB11/SyrineB11 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 linkedin https://www.linkedin.com/in/syrine-bahri-5259311ba/
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
