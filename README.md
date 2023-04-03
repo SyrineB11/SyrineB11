@@ -1,9 +1,9 @@
 ### Hi there, I'm Syrine !👋
 
 #### Computer science and AI specialized engineering student at ENSI (National School For Computer Science) 
-- 📫 How to reach me syrinebahri6@gmail.com
+- 📫 How to reach me : syrinebahri6@gmail.com
 
-- 📫 My Linkedin account https://www.linkedin.com/in/syrine-bahri-5259311ba/
+- 📫 My Linkedin : https://www.linkedin.com/in/syrine-bahri-5259311ba/
 <!---
 SyrineB11/SyrineB11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
