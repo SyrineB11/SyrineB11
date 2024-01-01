@@ -1,4 +1,4 @@
-### Hi there, I'm Syrine !👋
+### Hi there, I'm Cyrine !👋
 
 #### Graduated as Computer science and AI specialized engineer from ENSI (National School For Computer Science) 
 - 📫 How to reach me : syrinebahri6@gmail.com
