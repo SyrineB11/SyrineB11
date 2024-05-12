@@ -1,9 +1,10 @@
 ### Hi there, I'm Cyrine !👋
 
+### Passionate Data scientist and AI engineer !
+
 #### Graduated as Computer science and AI specialized engineer from ENSI (National School For Computer Science) 
 - 📫 How to reach me : syrinebahri6@gmail.com
 
-- 📫 My Linkedin : https://www.linkedin.com/in/syrine-bahri-5259311ba/
 <!---
 SyrineB11/SyrineB11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
